@@ -4,11 +4,11 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-const int n=6;
+const int n=5;
 char arr[n][n];
 int maze[n][n];
-int main(){
-
+int main()
+{
 	freopen("inpmaze.txt", "r", stdin);
 	freopen("prob.txt", "w", stdout);
 

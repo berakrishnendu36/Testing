@@ -1,0 +1,13 @@
+90 Left
+Forward
+Forward
+90 Right
+Forward
+Forward
+90 Left
+Forward
+Forward
+90 Right
+Forward
+Forward
+Stop
