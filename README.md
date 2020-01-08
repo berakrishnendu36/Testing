@@ -14,3 +14,5 @@ _RFID_
 1. https://lastminuteengineers.com/how-rfid-works-rc522-arduino-tutorial/
 2. https://2020.robotix.in/tutorial/event/tesseract/
 
+_LCD_
+https://create.arduino.cc/projecthub/techmirtz/using-16x2-lcd-with-arduino-d89028
