@@ -19,21 +19,21 @@ https://create.arduino.cc/projecthub/techmirtz/using-16x2-lcd-with-arduino-d8902
 
 **IR Sensor Connections:-**
 
-D0-39
+D0-31
 
-D1-41
+D1-33
 
-D2-43
+D2-35
 
-D3-45
+D3-37
 
-D4-47
+D4-39
 
-D5-49
+D5-41
 
-D6-51
+D6-43
 
-D7-53
+D7-45
 
 IRVCC-5V
 
@@ -41,13 +41,13 @@ IRGND-GND
 
 **MOTOR Driver Connections:-**
 
-EN1-46
+EN1-36
 
-EN2-48
+EN2-38
 
-EN3-50
+EN3-40
 
-EN4-52
+EN4-42
 
 **LCD:-**
 
@@ -57,11 +57,11 @@ PIN2-5V
 
 PIN3-POt
 
-PIN4(RS)-7
+PIN4(RS)12
 
 PIN5(RW)-GND
 
-PIN6(E)-6
+PIN6(E)-10
 
 PIN11(D4)-2
 
