@@ -75,13 +75,13 @@ PIN14(D7)-5
 
 RST- 8
 
-SDA - 9
+SDA - 53
 
-SCK - 10
+SCK - 52
 
 MOSI - 51
 
-MISO - 12
+MISO - 50
 
 
 
