@@ -17,7 +17,7 @@ _RFID_
 _LCD_
 https://create.arduino.cc/projecthub/techmirtz/using-16x2-lcd-with-arduino-d89028
 
-IR Sensor Connections:-
+**IR Sensor Connections:-**
 
 D0-39
 
@@ -39,7 +39,7 @@ IRVCC-5V
 
 IRGND-GND
 
-MOTOR Driver Connections:-
+**MOTOR Driver Connections:-**
 
 EN1-46
 
@@ -57,19 +57,33 @@ PIN2-5V
 
 PIN3-POt
 
-PIN4(RS)-13
+PIN4(RS)-7
 
 PIN5(RW)-GND
 
-PIN6(E)-12
+PIN6(E)-6
 
-PIN11(D4)-8
+PIN11(D4)-2
 
-PIN12(D5)-9
+PIN12(D5)-3
 
-PIN13(D6)-10
+PIN13(D6)-4
 
-PIN14(D7)-11
+PIN14(D7)-5
+
+**RFID**
+
+RST- 8
+
+SDA - 9
+
+SCK - 10
+
+MOSI - 51
+
+MISO - 12
+
+
 
 
 
