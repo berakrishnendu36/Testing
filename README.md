@@ -49,7 +49,7 @@ EN3-50
 
 EN4-52
 
-LCD:-
+**LCD:-**
 
 PIN1-GND
 
